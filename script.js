@@ -30,3 +30,5 @@ function fadeOut(){
 }
 
 window.onload = fadeOut();
+
+//dada//
