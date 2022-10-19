@@ -32,4 +32,3 @@ function fadeOut(){
 window.onload = fadeOut();
 
 
-//1231231//
